@@ -7,7 +7,16 @@ Allow the user to enter a number, an operation, and another number. Then, perfor
 Allow user to enter number and respond with prime or not
 
 ### Fizz Buzz: 
-Print numbers 1 – 100, print Fizz for every multiple of 3, print Buzz for every multiple of 5, print Fizz Buzz for every multiple of 15
+1. Print numbers 1 – 100, 
+2. Print Fizz for every multiple of 3
+3. Print Buzz for every multiple of 5 
+4. Print Fizz Buzz for every multiple of 15
+
+Extra Challenge:
+1. Print Zig for every multiple of 2 
+> Fizz Zig for multiples of 6, Buzz Zig for multiples of 10, etc.
+3. Print Zag for every multiple of 7
+4. Print Quack for every multiple of 19
 
 ### Integer guessing game:
 Generate a random integer and allow the user to enter numbers. Give hints (higher/lower) after each guess.
